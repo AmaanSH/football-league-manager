@@ -1,0 +1,13 @@
+D:\College\Football League Manager\Football League Manager\bin\Debug\Football League Manager.exe.config
+D:\College\Football League Manager\Football League Manager\bin\Debug\Football League Manager.exe
+D:\College\Football League Manager\Football League Manager\bin\Debug\Football League Manager.pdb
+D:\College\Football League Manager\Football League Manager\obj\Debug\Football League Manager.csprojAssemblyReference.cache
+D:\College\Football League Manager\Football League Manager\obj\Debug\Football_League_Manager.Form1.resources
+D:\College\Football League Manager\Football League Manager\obj\Debug\Football_League_Manager.Properties.Resources.resources
+D:\College\Football League Manager\Football League Manager\obj\Debug\Football League Manager.csproj.GenerateResource.cache
+D:\College\Football League Manager\Football League Manager\obj\Debug\Football League Manager.csproj.CoreCompileInputs.cache
+D:\College\Football League Manager\Football League Manager\obj\Debug\Football League Manager.exe
+D:\College\Football League Manager\Football League Manager\obj\Debug\Football League Manager.pdb
+D:\College\Football League Manager\Football League Manager\obj\Debug\Football_League_Manager.TeamManager.resources
+D:\College\Football League Manager\Football League Manager\obj\Debug\Football_League_Manager.AddToTeam.resources
+D:\College\Football League Manager\Football League Manager\obj\Debug\Football_League_Manager.GameCreation.resources
