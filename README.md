@@ -3,6 +3,7 @@ As apart of my object orinted module of my coursework I had to create a Football
 
 Your task is to design and implement a prototype system that enables the football league to keep track of its teams. Your system should provide the following functionality. 
 
+```
 Your system should allow the league to:
 Add or remove players from its list of players
 Add or remove a team from the team’s list of teams
@@ -13,6 +14,7 @@ Modify the status of a player
 Show details for teams, matches, and players
 
 All information must be stored in objects and must persist between sessions.
+```
 
 Access to the facilities of your system should be via a GUI-based application that appears on the screen as a stand-alone application
 
